@@ -1,2 +1,2 @@
-# Myfavorieprojectes
-games I've enjoyed making for class assignements 
+# Breakdown
+A  game I really enjoyed making for a class Project 
